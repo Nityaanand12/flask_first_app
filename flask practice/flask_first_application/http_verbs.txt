@@ -1,0 +1,24 @@
+GET  /    HTTP/1.1
+verb path http-protocol
+GET /login HTTP/1.1
+GET /download/msc HTTP/1.1
+
+POST PUT OPTIONS HEAD DELETE GET
+
+HTTP verbs 
+GET retrieve something                GET/itme/1
+POST receive data, and use it         POST/item 
+PUT make sure something is there      PUT/item create and update
+DELETE remove something               DELETE/item/1
+
+
+REST Principles 
+stateless - one request cannot depend on the another requests (only current request)
+resources - individual resouce 
+
+confuse other with your tricks and show them ur success to them
+
+  
+
+
+ 

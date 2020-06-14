@@ -1,0 +1,6 @@
+Test-first api design
+
+JWT - json web token
+
+token will be created when user logged in, with that token, only user 
+can see the encrypted data with the token
